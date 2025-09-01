@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Admiral442&theme=tokyonight"/>
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Admiral442&theme=tokyonight"/>
+
   <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Admiral442&theme=tokyonight"/>
 </p>
 
