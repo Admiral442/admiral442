@@ -29,19 +29,11 @@
 ---
 
 ## GitHub Stats
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Admiral442&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral442&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Admiral442&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Admiral442&theme=tokyonight)
 
----
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
