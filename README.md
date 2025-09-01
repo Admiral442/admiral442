@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Admiral442
  
-## ⚡ Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -18,12 +17,20 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiral442&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral442&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
 
 
