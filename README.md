@@ -33,10 +33,10 @@
 <table>
   <tr>
     <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Admiral442&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral442&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
