@@ -36,6 +36,7 @@
   <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Admiral442&theme=tokyonight"/>
 </p>
 
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Connect With Me
