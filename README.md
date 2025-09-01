@@ -18,8 +18,8 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiral442&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral442&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## Connect With Me
