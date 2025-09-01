@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=admiral442&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admiral442)
 <!--
 **Admiral442/admiral442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
