@@ -1,5 +1,5 @@
 ## Hi there 👋
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 <!--
 **Admiral442/admiral442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
