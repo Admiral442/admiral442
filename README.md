@@ -25,19 +25,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Admiral442&theme=tokyonight"/>
-
-  <img width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Admiral442&theme=tokyonight"/>
-</p>
-
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)  
